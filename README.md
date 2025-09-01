@@ -31,6 +31,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Je website
+https://aboubakr.nl/
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
