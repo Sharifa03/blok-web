@@ -101,6 +101,17 @@ https://aboubakr.nl/
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
+Sharifa
+- html en css bespreken
+
+Joep
+- html en css bespreken
+
+Ronan
+- html en css bespreken.
+
+persijn
+- was niet aanwezig
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
