@@ -31,22 +31,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Je website
-https://aboubakr.nl/
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://aboubakr.nl/
+  Ik heb als website gekozen voor mijn lokale moskee. Het leek mij een goede kans om zowel 
+  de basis van code skills te vorderen en om mijn portfolio goed aan te vullen. 
+  Ik heb bewust gekozen voor deze website met als doel om hun ook te bezoeken en mijn versie
+  aan te bieden.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/home1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/home2.png" width="375px" alt="omschrijving van de pagina">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+  <img src="readme-images/tijden1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/tijden1.png" width="375px" alt="omschrijving van de pagina">
 </details>
 
 
@@ -102,16 +107,17 @@ https://aboubakr.nl/
   | ...            | ...                | ...          | ...              |
 
 Sharifa
-- html en css bespreken
+
+-html en css bespreken
 
 Joep
-- html en css bespreken
+html en css bespreken
 
 Ronan
-- html en css bespreken.
-
+html en css bespreken.
 persijn
-- was niet aanwezig
+
+was niet aanwezig
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -139,19 +145,12 @@ persijn
   ### Agenda voor meeting
   samen met je groepje opstellen
 
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
-Sharifa
-- Kijken naar de html en css
-_____________
-Joep
-- Kijken naar de HTML en CCS
-_____________
-Persijn
-- kijken naar html en css
-- screen reader testen
-_______
-Ronan
-- Was niet aanwezig in de les
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
