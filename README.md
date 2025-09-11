@@ -128,12 +128,19 @@ https://aboubakr.nl/
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
 
+Sharifa
+- Kijken naar de html en css
+_____________
+Joep
+- Kijken naar de HTML en CCS
+_____________
+Persijn
+- kijken naar html en css
+- screen reader testen
+_______
+Ronan
+- Was niet aanwezig in de les
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
